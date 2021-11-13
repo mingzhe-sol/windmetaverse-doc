@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/PsyOps.svg",
+  favicon: "img/wind.png",
   organizationName: "biveivk", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   themeConfig: {
@@ -14,7 +14,7 @@ module.exports = {
       defaultMode: "dark",
     },
     navbar: {
-      title: "风元宇宙",
+      title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
         src: "img/wind.png",
@@ -27,7 +27,7 @@ module.exports = {
        
         {
           href: "https://www.windmetaverse.com/",
-          label: "官网",
+          label: "website",
           position: "left",
         },
       ],
@@ -36,7 +36,7 @@ module.exports = {
       style: "dark",
       links: [
         {
-          title: "联系方式",
+          title: "Community",
           items: [
             {
               label: "Discord",
@@ -52,19 +52,7 @@ module.exports = {
             },
           ],
         },
-        {
-          title: "More",
-          items: [
-            {
-              label: "Blog",
-              to: "https://medium.com/psyoptions",
-            },
-            {
-              label: "GitHub",
-              href: "https://github.com/mithraiclabs",
-            },
-          ],
-        },
+      
       ],
       copyright: `Copyright © ${new Date().getFullYear()} windmetaverse. Built with Docusaurus.`,
     },

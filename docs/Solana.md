@@ -1,8 +1,8 @@
 ---
-id: Solana
+id: solana
 title: Solana
 sidebar_label: Solana
-slug: /Solana
+slug: /solana
 ---
 
 

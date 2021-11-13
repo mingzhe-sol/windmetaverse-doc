@@ -1,6 +1,6 @@
 ---
-id: NFT
+id: nft
 title: NFT
 sidebar_label: NFT
-slug: /NFT
+slug: /nft
 ---
