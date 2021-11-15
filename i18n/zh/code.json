@@ -92,11 +92,11 @@
     "description": "The ARIA label for the docs pagination"
   },
   "theme.docs.paginator.previous": {
-    "message": "上一頁",
+    "message": "上一页",
     "description": "The label used to navigate to the previous doc"
   },
   "theme.docs.paginator.next": {
-    "message": "下一頁",
+    "message": "下一页",
     "description": "The label used to navigate to the next doc"
   },
   "theme.docs.sidebar.responsiveCloseButtonLabel": {
@@ -132,7 +132,7 @@
     "description": "The label used for the latest version suggestion link label"
   },
   "theme.common.editThisPage": {
-    "message": "編輯這個頁面",
+    "message": "编辑这个页面",
     "description": "The link label to edit the current page"
   },
   "theme.common.headingLinkTitle": {

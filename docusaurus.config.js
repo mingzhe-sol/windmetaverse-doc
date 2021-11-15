@@ -58,8 +58,8 @@ module.exports = {
     },
   },
   i18n: {
-    defaultLocale: 'en',
-    locales: ['en', 'zh'],
+    defaultLocale: 'zh',
+    locales: ['zh', 'en'],
   },
   presets: [
     [
