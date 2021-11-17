@@ -1,7 +1,7 @@
 ---
 id: map
-title: 发展路线
-sidebar_label: 发展路线
+title: 路线图
+sidebar_label: 路线图
 slug: /map
 ---
 
