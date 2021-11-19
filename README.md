@@ -31,7 +31,7 @@ yarn crowdin download
 ### Run local site with different locale
 
 ```console
-yarn start --locale fr
+yarn start --locale zh
 ```
 
 ## Build
