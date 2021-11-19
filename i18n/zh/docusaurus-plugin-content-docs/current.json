@@ -1,46 +1,34 @@
 {
   "version.label": {
-    "message": "下一頁",
+    "message": "下一页",
     "description": "The label for version current"
   },
-  "sidebar.someSidebar.category.Getting Started": {
-    "message": "入門",
-    "description": "The label for category Getting Started in sidebar someSidebar"
+  "sidebar.someSidebar.category.游戏介绍": {
+    "message": "游戏介绍",
+    "description": "The label for Game introduction in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.Architecture Design": {
-    "message": "結構設計",
-    "description": "The label for category Architecture Design in sidebar someSidebar"
+  "sidebar.someSidebar.category.游戏经济": {
+    "message": "游戏经济",
+    "description": "The label for category Game economy in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.Amercian Style Protocol (V1)": {
-    "message": "美式期權協議 (V1)",
-    "description": "The label for category Amercian Style Protocol (V1) in sidebar someSidebar"
+  "sidebar.someSidebar.category.发展路线": {
+    "message": "发展路线",
+    "description": "The label for category Route map in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.Program Integration": {
-    "message": "程式整合",
-    "description": "The label for category Program Integration in sidebar someSidebar"
+  "sidebar.someSidebar.category.技术支持": {
+    "message": "技术支持",
+    "description": "The label for category Technical Support in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.Clients": {
-    "message": "用戶",
-    "description": "The label for category Clients in sidebar someSidebar"
+  "sidebar.someSidebar.新手指南": {
+    "message": "新手指南",
+    "description": "The label for category Beginner's Guide in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.JavaScript": {
-    "message": "JavaScript",
-    "description": "The label for category JavaScript in sidebar someSidebar"
+  "sidebar.someSidebar.游戏灵感": {
+    "message": "游戏灵感",
+    "description": "The label for category Game inspiration in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.Rust": {
-    "message": "Rust",
-    "description": "The label for category Rust in sidebar someSidebar"
-  },
-  "sidebar.someSidebar.category.Designers": {
-    "message": "設計者",
-    "description": "The label for category Designers in sidebar someSidebar"
-  },
-  "sidebar.someSidebar.category.Devnet Testing": {
-    "message": "開發網測試",
-    "description": "The label for category Devnet Testing in sidebar someSidebar"
-  },
-  "sidebar.someSidebar.category.PSY Token": {
-    "message": "PSY代幣",
-    "description": "The label for category PSY Token in sidebar someSidebar"
+  "sidebar.someSidebar.常见问题": {
+    "message": "常见问题",
+    "description": "The label for category Q&A in sidebar someSidebar"
   }
 }

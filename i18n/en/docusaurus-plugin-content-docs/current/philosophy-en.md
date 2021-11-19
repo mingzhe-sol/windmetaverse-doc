@@ -2,5 +2,5 @@
 id: philosophy
 title: Philosophy
 sidebar_label: Philosophy
-slug: /en/philosophy
+slug: /philosophy
 ---

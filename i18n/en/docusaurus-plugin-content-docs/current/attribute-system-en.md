@@ -2,5 +2,6 @@
 id: attribute-system
 title: Attribute-system
 sidebar_label: Attribute-system
-slug: /en/attribute-system
+slug: /attribute-system
 ---
+123
