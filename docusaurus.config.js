@@ -21,7 +21,7 @@ module.exports = {
       },
       items: [
         {
-          href: "https://windmetaverse-docs-heignszg-biveivk.4everland.app/",
+          href: "https://windmetaverse-doc-en.4everland.app/",
           label: "English",
           position: 'right',
         },
