@@ -21,7 +21,8 @@ module.exports = {
       },
       items: [
         {
-          type: 'localeDropdown',
+          href: "https://windmetaverse-docs-heignszg-biveivk.4everland.app/",
+          label: "English",
           position: 'right',
         },
        
@@ -78,21 +79,5 @@ module.exports = {
       },
     ],
   ],
-  plugins: [
-    [
-      'docusaurus-plugin-typedoc',
-      // Plugin / TypeDoc options
-      {
-        entryPoints: ['../windmetaverse-ts/packages/psy-american/src/index.ts'],
-        tsconfig: '../windmetaverse-ts/packages/psy-american/tsconfig.json',
-        // Plugin options
-        out: 'javascript-api',
-        sidebar: {
-          categoryLabel: 'JavascriptApi',
-          position: 0,
-          fullNames: true
-        },
-      },
-    ],
-  ],
+  
 };
