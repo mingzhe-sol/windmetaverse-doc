@@ -1,7 +1,6 @@
 ---
 id: philosophy
-title: 哲学思考
-sidebar_label: 哲学思考
+title: 哲学灵感
+sidebar_label: 哲学灵感
 slug: /philosophy
 ---
-未完待续
