@@ -31,7 +31,7 @@ slug: /participate
 ## 9，在新的页面顶部点击“VERIFICATION”
 ![queren.png](/img/queren.png)
 
-## 10，之后会在此出现钱包连接页面，选择之前的钱包进行连接
+## 10，之后会再次出现钱包连接页面，选择之前的钱包进行连接
 ![wallet3.png](/img/wallet3.png)
 
 ## 11，再次点击页面顶部的“VERIFICATION”
@@ -39,3 +39,15 @@ slug: /participate
 
 ## 12，之后会弹出以下页面，请点击“verify”
 ![queren2.png](/img/queren2.png)
+
+## 13,之后钱包会出现此页面，点击“Approve"确认
+![wallet4.png](/img/wallet4.png)
+
+## 14，点击此处修改密码
+![pass.png](/img/pass.png)
+
+## 15, 输入你要修改的密码
+![passworld.png](/img/passworld.png)
+
+## 16，在钱包页面点击“Approvre” 密码修改成功
+![last.png](/img/last.png)

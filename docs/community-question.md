@@ -4,6 +4,9 @@ title: 关于社区
 sidebar_label: 关于社区
 slug: /community-question
 ---
++ [如何联系我们？](#如何联系我们？)
++ [如何参与社区活动？](#如何参与社区活动？)
+
 ## 如何联系我们？
 [discord](https://discord.gg/WYnUS8Dw)
 
