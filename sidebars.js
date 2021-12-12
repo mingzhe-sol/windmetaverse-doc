@@ -11,6 +11,6 @@ module.exports = {
       常见问题: ["community-question","game-question"]
       
     },
-    
+    "team",
   ],
 };
