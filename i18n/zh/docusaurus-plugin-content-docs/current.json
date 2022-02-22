@@ -19,16 +19,20 @@
     "message": "技术支持",
     "description": "The label for category Technical Support in sidebar someSidebar"
   },
-  "sidebar.someSidebar.新手指南": {
+  "sidebar.someSidebar.category.新手指南": {
     "message": "新手指南",
     "description": "The label for category Beginner's Guide in sidebar someSidebar"
   },
-  "sidebar.someSidebar.游戏灵感": {
+  "sidebar.someSidebar.category.游戏灵感": {
     "message": "游戏灵感",
     "description": "The label for category Game inspiration in sidebar someSidebar"
   },
-  "sidebar.someSidebar.常见问题": {
+  "sidebar.someSidebar.category.常见问题": {
     "message": "常见问题",
     "description": "The label for category Q&A in sidebar someSidebar"
+  },
+  "sidebar.someSidebar.category.团队介绍": {
+    "message": "团队介绍",
+    "description": "The label for category Team in sidebar someSidebar"
   }
 }

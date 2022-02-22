@@ -8,9 +8,8 @@ module.exports = {
       技术支持: ["solana","gpt-3","unrealengine","arweave","othertec"],
       新手指南: ["wallet","participate","create"],
       游戏灵感: ["technology","art","philosophy"],
-      常见问题: ["community-question","game-question"]
+      常见问题: ["community-question","game-question"],
+      团队介绍: ["team"],
       
-    },
-    "team",
-  ],
+    },],
 };

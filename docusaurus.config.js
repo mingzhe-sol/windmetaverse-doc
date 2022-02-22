@@ -8,22 +8,22 @@ module.exports = {
   favicon: "img/wind.png",
   organizationName: "biveivk", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
-  themeConfig: {
+  i18n: {
+    defaultLocale: 'zh',
+    locales: ['zh', 'en'],
+  },themeConfig: {
     colorMode: {
       // "light" | "dark"
       defaultMode: "dark",
-    },
-    navbar: {
+    },navbar: {
       title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
         src: "img/wind.png",
-      },
-      items: [
+      },items: [
         {
-          href: "https://windmetaverse-doc-en.4everland.app/",
-          label: "English",
-          position: 'right',
+          type: 'localeDropdown',
+          position: "right",
         },
        
         {
@@ -32,8 +32,7 @@ module.exports = {
           position: "left",
         },
       ],
-    },
-    footer: {
+    },footer: {
       style: "dark",
       links: [
         {
@@ -57,12 +56,7 @@ module.exports = {
       ],
       copyright: `Copyright © ${new Date().getFullYear()} windmetaverse. Built with Docusaurus.`,
     },
-  },
-  i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh', 'en'],
-  },
-  presets: [
+  },presets: [
     [
       "@docusaurus/preset-classic",
       {
