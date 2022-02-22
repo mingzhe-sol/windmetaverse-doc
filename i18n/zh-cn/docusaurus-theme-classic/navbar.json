@@ -1,0 +1,10 @@
+{
+  "title": {
+    "message": "风之宇宙",
+    "description": "The title in the navbar"
+  },
+  "item.label.website": {
+    "message": "官网",
+    "description": "Navbar item with metaverse"
+  }
+}

@@ -9,8 +9,8 @@ module.exports = {
   organizationName: "biveivk", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
-    defaultLocale: 'zh',
-    locales: ['zh', 'en'],
+    defaultLocale: 'zh-cn',
+    locales: ['zh-cn', 'en','zh-tw'],
   },themeConfig: {
     colorMode: {
       // "light" | "dark"
