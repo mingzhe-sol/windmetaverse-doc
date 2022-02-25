@@ -1,5 +1,5 @@
 ---
-id: avatar-system
+id: Avatar-System
 title: 化身系统
 sidebar_label: 化身系统
 slug: /
@@ -7,8 +7,6 @@ slug: /
 <p align="center">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uKAl09h8cF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </p>
-
-## This is EN Version.
 
 ## 化身与风元宇宙的关系
 化身是参与风元宇宙的唯一通证，你在风元宇宙中的身份完全独立于物理世界，灵魂的部分意识将由拥有化身的你来控制。木登实验室希望以此让风元宇宙更真实的反应现实世界的有限自由意识。 

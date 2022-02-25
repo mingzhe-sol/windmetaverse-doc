@@ -3,17 +3,13 @@
     "message": "下一页",
     "description": "The label for version current"
   },
-  "sidebar.someSidebar.category.游戏介绍": {
-    "message": "游戏介绍",
-    "description": "The label for Game introduction in sidebar someSidebar"
+  "sidebar.someSidebar.category.生态系统": {
+    "message": "生态系统",
+    "description": "The label for ECO System introduction in sidebar someSidebar"
   },
-  "sidebar.someSidebar.category.重要元素": {
-    "message": "重要元素",
-    "description": "The label for Importtant Element in sidebar someSidebar"
-  },
-  "sidebar.someSidebar.category.游戏经济": {
-    "message": "游戏经济",
-    "description": "The label for category Game economy in sidebar someSidebar"
+  "sidebar.someSidebar.category.代币经济": {
+    "message": "代币经济",
+    "description": "The label for Token Assets in sidebar someSidebar"
   },
   "sidebar.someSidebar.category.发展路线": {
     "message": "发展路线",

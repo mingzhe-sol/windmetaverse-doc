@@ -1,8 +1,8 @@
 ---
-id: participate
+id: Participate
 title: 账户设置
 sidebar_label: 账户设置
-slug: /participate
+slug: /Participate
 ---
 ## 1，点击[官网](https://www.windmetaverse.com/)右上角“LANGUAGE”切换为中文
 ![changelg.gif](/img/changelg.gif)

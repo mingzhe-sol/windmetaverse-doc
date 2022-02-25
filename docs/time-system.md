@@ -1,8 +1,8 @@
 ---
-id: time-system
+id: Time-System
 title: 时间系统
 sidebar_label: 时间系统
-slug: /time-system
+slug: /Time-System
 ---
 时间/历史证明利用 Solana 的优势
 

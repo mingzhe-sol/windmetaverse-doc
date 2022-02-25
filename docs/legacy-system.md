@@ -1,8 +1,8 @@
 ---
-id: legacy-system
+id: Legacy-System
 title: 传承系统
 sidebar_label: 传承系统
-slug: /legacy-system
+slug: /Legacy-System
 ---
 
  当你的虚拟化身年龄超过20岁，即可与不同的虚拟化身繁衍后代。 

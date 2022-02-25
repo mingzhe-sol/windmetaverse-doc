@@ -1,5 +1,5 @@
 ---
-id: avatar-system
+id: Avatar-System
 title: 化身系统
 sidebar_label: 化身系统
 slug: /

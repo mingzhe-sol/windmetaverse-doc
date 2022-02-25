@@ -1,8 +1,8 @@
 ---
-id: game-question
+id: Game-Question
 title: 关于游戏
 sidebar_label: 关于游戏
-slug: /game-question
+slug: /Game-Question
 ---
 + [什么是化身？](#什么是化身？)
 + [如何获得化身？](#如何获得化身？)

@@ -1,8 +1,8 @@
 ---
-id: wallet
+id: Wallet
 title: 钱包入门
 sidebar_label: 钱包入门
-slug: /wallet
+slug: /Wallet
 ---
 
 目前风元宇宙支持Phantom、Solflare、Sollet、Sollet（Extension）四种钱包,接下来将以Phantom为例，展示如何安装并创建钱包。

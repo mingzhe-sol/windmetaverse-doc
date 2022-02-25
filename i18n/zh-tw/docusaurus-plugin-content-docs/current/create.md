@@ -1,8 +1,8 @@
 ---
-id: create
+id: Create
 title: 铸造化身
 sidebar_label: 铸造化身
-slug: /create
+slug: /Create
 ---
 
 ## 点击主页的“CREATE” 然后选择“CREATE AVATAR”或者“CREATE SOLSEED”进行铸造

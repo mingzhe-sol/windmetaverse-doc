@@ -1,8 +1,8 @@
 ---
-id: philosophy
+id: Philosophy
 title: 哲学灵感
 sidebar_label: 哲学灵感
-slug: /philosophy
+slug: /Philosophy
 ---
 
 以下哲学家的观点（并未完全列出）对于风元宇宙的构建有很多帮助，同时也提供了一定的合法性。

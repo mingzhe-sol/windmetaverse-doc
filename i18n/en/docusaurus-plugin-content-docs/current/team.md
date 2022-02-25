@@ -1,8 +1,8 @@
 ---
-id: team
+id: Team
 title: 团队介绍
 sidebar_label: 团队介绍
-slug: /team
+slug: /Team
 ---
 
 ## Mudeng Lab

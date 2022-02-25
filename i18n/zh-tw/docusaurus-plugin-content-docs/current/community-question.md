@@ -1,8 +1,8 @@
 ---
-id: community-question
+id: Community-Question
 title: 关于社区
 sidebar_label: 关于社区
-slug: /community-question
+slug: /Community-Question
 ---
 + [如何联系我们？](#如何联系我们？)
 + [如何参与社区活动？](#如何参与社区活动？)

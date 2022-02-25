@@ -1,8 +1,8 @@
 ---
-id: gpt-3
+id: GPT-3
 title: GPT-3
 sidebar_label: GPT-3
-slug: /gpt-3
+slug: /GPT-3
 ---
 ## 什么是[GPT-3](https://openai.com/blog/gpt-3-apps/)
 GPT-3是一个自回归语言模型，目的是为了使用深度学习分类或产生人类可以理解的自然语言。他是由[OpenAI](https://openai.com/about/)训练与开发，模型设计基于谷歌开发的变换语言模型。GPT-3的神经网络包含1750亿个神经，为全世界参数最多的神经网络模型。详细内容请看[GPT-3官方文档](https://beta.openai.com/docs/introduction)
