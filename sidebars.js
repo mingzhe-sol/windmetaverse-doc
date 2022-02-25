@@ -2,28 +2,9 @@ module.exports = {
   someSidebar: [
     {
        生态系统: [
-        {
-          MetaGo: [
-            {
-              ES: [
-               "Avatar-System", 
-               "Legacy-System", 
-               "Fatality-System", 
-               "Time-System"
-               ],
-            },
-          ],
-        },
-        {
-          EGO:[
-            "EGO",
-          ]
-        },
-        {
-          AlterGo:[
-            "Alterego",
-          ]
-        },
+        {MetaGo: ["Avatar-System",  "Legacy-System", "Fatality-System", "Time-System",],},
+        {ES:["ES",],},
+        {EGO:["EGO",]},
          "WIND-AI",
          "Nvwa-Oracle",
          "Entrance-V1",
@@ -31,7 +12,7 @@ module.exports = {
          "Avatar-Protocol",
          "Wind-Marketplace",
        ],
-       代币经济: ["WIND","Avatar"],
+       代币经济: ["SOC","Avatar"],
        发展路线: ["Map"],
        技术支持: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"],
        新手指南: ["Wallet","Participate","Create"],
