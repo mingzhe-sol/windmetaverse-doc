@@ -4,5 +4,9 @@ title: Arweave
 sidebar_label: Arweave
 slug: /Arweave
 ---
-## 什么是[Arweave](https://www.arweave.org/)
-Arweave是一种去中心化存储，它以可持续和永久的禀赋支持数据，使用户和开发人员能够真正永远存储数据。详细内容请看[Arweave官方文档](https://docs.arweave.org/info/)
+## 什麼是[Arweave](https://www.arweave.org/)
+Arweave 是一種新型存儲，它以可持續和永久的禀賦支持數據，允許用戶和開發人員真正永久地存儲數據。
+
+作為永遠不會忘記的集體所有硬盤，Arweave 讓我們能夠無限期地記住和保存有價值的信息、應用程序和歷史記錄。通過保留歷史，它可以防止其他人重寫它。
+
+詳細內容請看[Arweave官方文檔](https://docs.arweave.org/info/)

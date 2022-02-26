@@ -1,6 +1,6 @@
 ---
 id: OtherTec
-title: 其它技术
-sidebar_label: 其它技术
+title: 其他技術
+sidebar_label: 其他技術
 slug: /OtherTec
 ---
