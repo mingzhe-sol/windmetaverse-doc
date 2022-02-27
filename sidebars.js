@@ -17,7 +17,9 @@ module.exports = {
        技术支持: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"],
        新手指南: ["Wallet","Participate","Create"],
        游戏灵感: ["Technology","Art","Philosophy"],
-       常见问题: ["Community-Question","Game-Question","AMA"],
+       常见问题: [
+         {AMA:["20220214-AMA","20220220-AMA","20220224-AMA",],},
+         "Community-Question","Game-Question",],
        团队介绍: ["Team"],
     },
   ],};
