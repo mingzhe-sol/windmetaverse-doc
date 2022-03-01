@@ -18,8 +18,7 @@ module.exports = {
        新手指南: ["Wallet","Participate","Create"],
        游戏灵感: ["Technology","Art","Philosophy"],
        常见问题: [
-         {AMA:["20220214-AMA","20220220-AMA","20220224-AMA",],},
-         "Community-Question","Game-Question",],
+         {AMA:["AMA"],},"Community-Question","Game-Question",],
        团队介绍: ["Team"],
     },
   ],};

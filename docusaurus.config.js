@@ -10,7 +10,7 @@ module.exports = {
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
     defaultLocale: 'zh-cn',
-    locales: ['zh-cn', 'en','zh-tw'],
+    locales: ['zh-cn', 'en','zh-hk'],
   },themeConfig: {
     colorMode: {
       // "light" | "dark"
