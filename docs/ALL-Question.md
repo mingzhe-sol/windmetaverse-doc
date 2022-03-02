@@ -1,11 +1,11 @@
 ---
-id: AMA
-title: AMA 汇总
-sidebar_label: AMA 汇总
-slug: /AMA
+id: ALL-Question
+title: 问题汇总
+sidebar_label: 问题汇总
+slug: /ALL-Question
 ---
 
-## Wind AMA 汇总
+## 问题汇总
 
 ## 1.Wind 介绍
 Wind 希望成为 web3 的元宇宙基础设施提供商，希望未来的游戏都使用 Wind protocol 协议；这个协议的核心实现功能在于，玩家可以通过化身，进入不同的游戏里游玩；

@@ -16,8 +16,8 @@ slug: /Community-Question
 
 [twitter](https://twitter.com/windmetaverse)
 
-微信公眾號搜索：風之宇宙
+微信公眾號搜索：风之宇宙
 
 ## 如何參與社區活動？
-請加入我們的[discord](https://discord.gg/WYnUS8Dw) ，我們將會不定期的舉行各種活動。
+請加入我們的[discord](https://discord.gg/UfwjZHjyYY) ，我們將會不定期的舉行各種活動。
 

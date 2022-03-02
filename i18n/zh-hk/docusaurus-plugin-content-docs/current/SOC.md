@@ -4,5 +4,6 @@ title: SOC
 sidebar_label: SOC
 slug: /SOC
 --- 
-## SOC
-目前SOC只是一個概念，它將用於風之宇宙的經濟治理。
+SOC 的定位是 Wind Protocal 的 liquidity (流動性) 代幣。<br />
+在 Wind Protocal 裡面做任何事情都需要一個這樣的代幣。<br />
+代幣的激勵制度也能保證社區的參與度。<br />
