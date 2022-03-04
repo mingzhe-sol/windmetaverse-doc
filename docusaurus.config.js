@@ -1,7 +1,7 @@
 module.exports = {
   title: "windmetaverse",
   tagline: " A metaverse on Solana",
-  url: "https://www.windmetaverse.com/",
+  url: "https://www.windprotocol.org/",
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",

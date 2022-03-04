@@ -16,7 +16,7 @@
     "description": "The label of footer link with label=Telegram linking to https://t.me/joinchat/mNxJoJn4p4JhYjU1"
   },
   "copyright": {
-    "message": "版权所有 © 2021 风之宇宙。 基于 Docusaurus 开发。",
+    "message": "版权所有 © 2021 风之协议。 基于 Docusaurus 开发。",
     "description": "The footer copyright"
   }
 }
