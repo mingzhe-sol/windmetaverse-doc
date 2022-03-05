@@ -5,49 +5,46 @@ sidebar_label: 帳戶設置
 slug: /Participate
 ---
 ## 1，點擊[官網](https://www.windmetaverse.com/)右上角「LANGUAGE」切換為中文
-![changelg.gif](/img/changelg.gif)
+![changelg.gif](/img_account_setting/1-ChangeLanguage.gif)
 
 ## 2，點擊網頁右上角「登錄」 然後點擊「連接錢包」
-![login.gif](/img/login.gif)
+![login.gif](/img_account_setting/2-LoginLinkWallet.png)
 
-## 3，選擇你使用的錢包進行連接
-![wallet.png](/img/wallet.png)
+## 3，錢包連接成功後，再次點擊右上角「登錄」，然後選擇「賬戶」
+![wallet.png](/img_account_setting/3-Account.gif)
 
-## 4，錢包連接成功後再次點擊右上角的「登錄」，然後選擇「賬戶」
-![zhanghu.gif](/img/zhanghu.gif)
+## 4，然後會彈出如下窗口，請點擊「驗證」
+![zhanghu.gif](/img_account_setting/4-Verify.png)
 
-## 5，之後會彈出以下窗口，請點擊「驗證」
-![yanzheng.png](/img/yanzheng.png)
+## 5，之後會彈出以下窗口，請點擊「Approve」
+![yanzheng.png](/img_account_setting/5-Approve.png)
 
-## 6，錢包會出現以下頁面，點擊「Approve」
-![wallet2.png](/img/wallet2.png)
+## 6，在這邊查看你的化身
+![wallet2.png](/img_account_setting/6-CheckAvatar.png)
 
-## 7，在此查看你的化身
-![avatar2.png](/img/avatar2.png)
+## 7，點擊頭像，然後點擊「Enter Wind」
+![avatar2.png](/img_account_setting/7-EnterWind.png)
 
-## 8，點擊你的化身，然後點擊「Enter Wind」
-![avatar3.png](/img/avatar3.png)
+## 8，點擊頁面右上角「LANGUAGE」，點擊語言切換ZH（中文），再點擊頁面中部的「驗證」
+![avatar3.png](/img_account_setting/8-ChangeLanguage2.gif)
 
-## 9，在新的頁面頂部點擊「VERIFICATION」
-![queren.png](/img/queren.png)
+## 9，這裡會出現錢包連接頁面，選擇之前的錢包進行連接
+![queren.png](/img_account_setting/9-Wallet2.png)
 
-## 10，之後會再次出現錢包連接頁面，選擇之前的錢包進行連接
-![wallet3.png](/img/wallet3.png)
+## 10，再次點擊「Approve」
+![wallet3.png](/img_account_setting/10-Approve2.png)
 
-## 11，再次點擊頁面頂部的「VERIFICATION」
-![queren.png](/img/queren.png)
+## 11，點擊修改密碼，化身「遊戲賬號」和修改後密碼是遊戲客戶端登錄信息，請收藏
+![queren.png](/img_account_setting/11-ChangePass.png)
 
-## 12，之後會彈出以下頁面，請點擊「verify」
-![queren2.png](/img/queren2.png)
+## 12，輸入你要修改的密碼
+![queren2.png](/img_account_setting/12-EnterPass.png)
 
-## 13,之後錢包會出現此頁面，點擊「Approve"確認
-![wallet4.png](/img/wallet4.png)
+## 13,之後錢包會出現此頁面，點擊「Approve」確認
+![wallet4.png](/img_account_setting/13-ApprovePass.png)
 
-## 14，點擊此處修改密碼
-![pass.png](/img/pass.png)
+## 14，修改密碼成功
+![pass.png](/img_account_setting/14-ChangePassSuccess.png)
 
-## 15, 輸入你要修改的密碼
-![passworld.png](/img/passworld.png)
-
-## 16，在錢包頁面點擊「Approvre」 密碼修改成功
-![last.png](/img/last.png)
+## 15, 點擊下載Windows客戶端
+![passworld.png](/img_account_setting/15-DownloadWin.png)
