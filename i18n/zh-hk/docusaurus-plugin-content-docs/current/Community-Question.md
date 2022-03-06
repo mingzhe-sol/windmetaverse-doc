@@ -8,8 +8,11 @@ slug: /Community-Question
 + [如何參與社區活動？](#如何參與社區活動？)
 
 ## 如何聯繫我們？
+
+我們的社區目前活躍於
 [discord](https://discord.gg/WYnUS8Dw)
 
+Telegram僅用來作為宣發。 
 [telegram中文社區](https://t.me/joinchat/mNxJoJn4p4JhYjU1)
 
 [telegram英文社區](https://t.me/joinchat/734F6GmJqss2M2Rl)

@@ -1,6 +1,8 @@
 ---
-id: Wind-Marketplace
-title: Wind 二级市场
-sidebar_label: Wind 二级市场
-slug: /Wind-Marketplace
+id: Palace-Marketplace
+title: 圣殿交易市场
+sidebar_label: Palace
+slug: /Palace-Marketplace
 ---
+
+Palace-Marketplace

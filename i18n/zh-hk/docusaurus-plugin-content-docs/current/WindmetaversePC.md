@@ -1,8 +1,8 @@
 ---
-id: Fatality-System
-title: 生死系統
-sidebar_label: 生死系統
-slug: /Fatality-System
+id: WindmetaversePC
+title: PC端元宇宙
+sidebar_label: PC端元宇宙
+slug: /WindmetaversePC
 ---
 
 在風之宇宙中，每個化身都有不同的名字、年齡、身份、性別、特徵、背景故事、特徵……

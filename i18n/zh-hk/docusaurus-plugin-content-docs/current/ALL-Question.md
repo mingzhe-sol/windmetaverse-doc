@@ -23,7 +23,7 @@ users (用戶)，developers (開發者)， creators (創造者), gamers (玩家)
     (2) 在這些協議之上發展的多元宇宙(metaverse)平台；
     (3) 管理元宇宙的DAO（去中心化組織）社區。
 
-更多內容請在網站上瞭解Wind protocol
+更多內容請在網站上瞭解Windprotocol.org
 
 我們想做的底層協議是基於web3的cyber經濟的鬆散的開放式協議。我們現在處於一個 cyber 復興階段的早期，在探索如何重新定義所謂web3時代的 property right (所有權)。我們的核心開發者對這種願景是有非常的執念。目前常見的針對NFT的ERC721規範，不太適合基於web3的metaverse, GameFi, P2E或者新時代的工作場景。目前我們主要做三個方面的事情。一個是研發 NFT layer of metaverse (元宇宙的NFT底層架構); 第二個是開發 Entrance (登錄接口)，以改善目前錢包對metaveres，遊戲，細分的SPL，NFT等應用不友好的局面； 第三個是發展我們自己對元宇宙的底層定義。比如在我們的元宇宙里，NFT有 Metaego，Ego和 Es幾種類別，各有不同的功能和發展路線。後面我們會更具體地討論到。
 Wind metaverse (風元宇宙) 就是建立在這些底層協議之上的。她是我們自己開發的示範性的 metaverse，一個 Wind protocol 展示案例。我們明白，肯定有比我們更好的更有實力更有資金的 Gaming stadio (遊戲開發工作室)。我們是希望吸引這一部分人到我們的平台，用跟我們類似的方式加入到這種 web3 community owned projects (基於web3的屬於社區的項目)。我們的目標是在這個平台上建立多元宇宙的強大生態。我們摸索的方向會在後面的問答中涉及到。
