@@ -23,5 +23,6 @@ Mudeng Lab operator:Mingzhe, Jacheng.
 Mudeng Lab operator:Mingzhe, Jacheng. 
 
 ## 联系我们 
-
+###  創始人：Jacheng
+###  團隊成員目前匿名
 如果您感興趣加入我們，請在我們的discord或者twitter聯繫我們。 
