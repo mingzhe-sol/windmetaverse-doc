@@ -14,7 +14,7 @@ module.exports = {
   },themeConfig: {
     colorMode: {
       // "light" | "dark"
-      defaultMode: "dark",
+      defaultMode: "light",
     },navbar: {
       title: "Windmetaverse",
       logo: {

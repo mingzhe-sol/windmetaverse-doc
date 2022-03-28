@@ -15,7 +15,7 @@ module.exports = {
        代币经济: ["SOC","Avatar"],
        发展路线: ["Map"],
        技术支持: ["Solana","GPT-3","UnrealEngine","Arweave","OtherTec"],
-       新手指南: ["Wallet","Participate","Create"],
+       新手指南: ["Wallet","Participate","Create","Get-SOC"],
        游戏灵感: ["Technology","Art","Philosophy"],
        常见问题: ["ALL-Question","Community-Question","Game-Question",],
        团队介绍: ["Team"],

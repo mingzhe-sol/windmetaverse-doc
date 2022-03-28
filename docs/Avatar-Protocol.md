@@ -1,11 +1,11 @@
 ---
 id: Avatar-Protocol
-title: Avatar 协议
-sidebar_label: Avatar 协议
+title: Avatar 协议🌬
+sidebar_label: Avatar 协议🌬
 slug: /Avatar-Protocol
 ---
 
-## 高级概述
+## Avatar 协议🌬(0.1)
 
 该协议是为跨 IP、跨链元界的未来而设计和制造的。
 
