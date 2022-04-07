@@ -5,7 +5,7 @@ module.exports = {
   baseUrl: "/",
   onBrokenLinks: "throw",
   onBrokenMarkdownLinks: "warn",
-  favicon: "img/wind.png",
+  favicon: "img/wind.jpg",
   organizationName: "biveivk", // Usually your GitHub org/user name.
   projectName: "windmetaverse-docs", // Usually your repo name.
   i18n: {
@@ -19,7 +19,7 @@ module.exports = {
       title: "Windmetaverse",
       logo: {
         alt: "windmetaverse logo",
-        src: "img/wind.png",
+        src: "img/wind.jpg",
       },items: [
         {
           type: 'localeDropdown',
